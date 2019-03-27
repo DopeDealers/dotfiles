@@ -1,0 +1,19 @@
+$xorOS<
+
+.terminal(line, user, input => {
+   if (!line) {return ++line}
+   if (!user) {return user.reLog();}
+   line.Spray(||
+   
+   
+   
+   
+   XorOS created by Phil#0004 $xorOS.getvers()
+   
+   @user-$xorOS.getpcname();>input
+   ||);
+});
+
+.window($xorOS.getTile());
+
+>
